@@ -43,7 +43,7 @@ write('./speedrun-hack.bin', {
 			speed: { $: 'regular', data: {} },
 			realtimeSeconds: 0,
 		},
-		map: { seed: 27378 },
+		map: { seed: 0 },
 		gameMode: { $: 'regularMode', data: {} },
 		entityMgr: { nextUid: 10014 },
 		hubGoals: {
